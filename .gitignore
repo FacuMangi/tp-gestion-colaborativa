@@ -1,0 +1,10 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints de entornos interactivos
+.ipynb_checkpoints/
+
+# Archivos de datos locales excluidos por volumen (CSV/XLSX)
+datos/*.csv
+datos/*.xlsx
