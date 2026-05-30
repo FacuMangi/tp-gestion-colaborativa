@@ -4,7 +4,3 @@ __pycache__/
 
 # Checkpoints de entornos interactivos
 .ipynb_checkpoints/
-
-# Archivos de datos locales excluidos por volumen (CSV/XLSX)
-datos/*.csv
-datos/*.xlsx
